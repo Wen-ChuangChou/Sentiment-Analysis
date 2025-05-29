@@ -19,3 +19,9 @@ We first evaluated the **Llama-3.1-8B Instruct** foundation model on sentiment c
 The model achieved an **accuracy of 63.41%** when its predictions were compared with the labeled data.  
 
 After fine-tuning the model on the training set, the accuracy improved significantly to **81.49%**.  
+
+The radar plot below illustrates the enhanced performance across various metrics.
+
+<p align="center">
+  <img src="https://github.com/Wen-ChuangChou/sentiment_analysis/blob/main/pic/radarplot.png?raw=true" alt="radar plot" width="400"/>
+</p>

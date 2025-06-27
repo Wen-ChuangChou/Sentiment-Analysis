@@ -28,8 +28,6 @@ Fine-tuning led to a substantial improvement in sentiment classification accurac
 
 The table below summarizes the detailed evaluation metrics on the MTEB tweet sentiment test set, comparing results **before and after fine-tuning**:
 
-<div align="center">
-
 | **Metric**             | **Before Fine-Tuning** | **After Fine-Tuning** |
 |------------------------|------------------------|------------------------|
 | **Accuracy**           | 63.41%                 | **81.49%**             |
@@ -46,7 +44,6 @@ The table below summarizes the detailed evaluation metrics on the MTEB tweet sen
 | **Positive Recall**    | 72.78%                 | **85.13%**             |
 | **Positive F1-score**  | 68.80%                 | **85.83%**             |
 
-</div>
 
 These results highlight the effectiveness of fine-tuning in enabling more nuanced and reliable sentiment predictions, especially for challenging neutral and negative cases.
 
